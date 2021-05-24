@@ -54,7 +54,11 @@ img{
 .content .footer .likes{
     height: 20%;
     padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
 }
 .content .footer .comment{
-    height 65%
+    height 65%;
+    padding-left: 10px;
+    padding-right: 10px;
 }
