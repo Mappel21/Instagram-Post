@@ -6,6 +6,7 @@ body{
     height: 596px;
     background: white;
     margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .header{
     width: 100%;
@@ -37,7 +38,6 @@ img{
 }
 .content .header .name{
     height: 50%;
-    font-family: Arial, Helvetica, sans-serif;
     font-size: small;
     padding-left: 5px;
 }
@@ -46,8 +46,15 @@ img{
     height: 50%;
 }
 .content .footer .icons{
-    height: 10%;
+    height: 15%;
     width: 4%;
     display: flex;
 
+}
+.content .footer .likes{
+    height: 20%;
+    padding-top: 20px;
+}
+.content .footer .comment{
+    height 65%
 }
