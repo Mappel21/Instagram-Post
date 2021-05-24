@@ -45,3 +45,9 @@ img{
     width: 10%;
     height: 50%;
 }
+.content .footer .icons{
+    height: 10%;
+    width: 4%;
+    display: flex;
+
+}
