@@ -1,5 +1,5 @@
 body{
-    background: black;
+    background: yellow;
 }
 .content{
     width: 433px;
@@ -29,13 +29,22 @@ img{
     height: 40%;
     /* background: blue; */
 }
-.header .logo{
+.logo{
+    margin: auto;
+    width: 55px;
+    float: inline-start;
+}
+.ellipsis{
+    margin: auto;
+    float: inline-end;
+}
+/* .header .logo{
     height: 35%;
     width: 7%;
     padding-top: 20px;
     padding-left: 10px;
-}
-.header .name{
+} */
+/* .header .name{
     height: 50%;
     font-size: small;
     padding-left: 5px;
@@ -45,8 +54,8 @@ img{
     height: 45%;
     padding-left: 75%;
     padding-top: 3%;
-}
-.content .footer .icons{
+} */
+/* .content .footer .icons{
     height: 15%;
     width: 4%;
     padding-top: 10px;
@@ -67,4 +76,4 @@ img{
 }
 .footer .save{
     padding-left: 350px;
-}
+} */
