@@ -30,13 +30,15 @@ img{
     /* background: blue; */
 }
 .logo{
-    margin: auto;
-    width: 55px;
+    width: 38px;
     float: inline-start;
+    padding-left: 10px;
+    padding-top: 15px;
 }
 .ellipsis{
-    margin: auto;
-    float: inline-end;
+    float: right;
+    padding-left: 295px;
+    padding-top: 10px;
 }
 /* .header .logo{
     height: 35%;
